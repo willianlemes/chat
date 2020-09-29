@@ -1,2 +1,2 @@
 # chat
-Implementação de um chat simples utilizando utilizando um servidor web socket.
+Implementação de um pequeno chat utilizando um servidor NodeJs aplicando o protocolo de web socket.
